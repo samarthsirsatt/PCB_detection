@@ -46,51 +46,63 @@ Therefore, within the limits of the current dataset and experiment, the number o
 
 ## 4. Implications for Imaging System Design
 
-The results do not currently support the conclusion that variation in FOV is a primary cause of poor localization performance. Therefore, increasing camera resolution solely to compensate for FOV variation is not yet justified by the available evidence.
+The current analysis does not show a statistically significant relationship between FOV-related sampling density and localization IoU. Therefore, the imaging system should not be designed around megapixel count alone. Instead, the camera configuration should be derived from the required defect size, pixels per defect, and inspection area.
 
-A more useful basis for camera selection is the required number of pixels across the smallest defect of interest:
+For the present inspection requirement, a minimum defect size of approximately **0.1 mm** has been considered. A working target of **100 px/mm** provides approximately **10 pixels across a 0.1 mm defect**:
 
-**Required pixels/mm = desired pixels across defect ÷ defect size**
+**100 px/mm × 0.1 mm = 10 pixels**
 
-For example, based on the measured defect-size distribution:
+Based on this requirement, the current camera concept is a **~25 MP camera providing approximately 5000 × 5000 pixels**. A tiled acquisition strategy can then be used for larger PCB regions.
 
-- A Solder Ball of approximately **0.449 mm** at the lower end of the observed size distribution would require about **22 px/mm** for 10 pixels across the defect.
-- The same defect would require about **45 px/mm** for 20 pixels across the defect.
-- A small LED Damage instance of approximately **0.259 mm** would require about **77 px/mm** for 20 pixels across the defect.
+For a **50 × 50 mm FOV per tile** at 100 px/mm:
 
-The current dataset already covers approximately **32–1067 px/mm**, indicating that a wide range of sampling densities is already represented in the data. Consequently, there is not sufficient evidence at this stage to justify selecting a higher-megapixel camera solely on the basis of the current localization results.
+**50 mm × 100 px/mm = 5000 pixels**
 
-## 5. Information Required Before Camera Selection
+Thus, one tile corresponds approximately to **5000 × 5000 pixels (25 MP)**.
 
-A final camera and lens specification cannot yet be determined because several physical imaging parameters are not available in the current dataset. The following should be fixed before hardware selection:
+For a larger inspection region of approximately **150 × 150 mm**, a **3 × 3 tile arrangement** would provide nine 50 × 50 mm inspection regions. This provides a practical way to maintain the required sampling density while covering a larger PCB area.
 
-1. Target PCB/component or inspection ROI.
-2. Required inspection area and corresponding FOV.
-3. Smallest defect that must be detected or localized.
-4. Required pixels across that defect.
-5. Camera sensor resolution and pixel size.
-6. Lens/objective and working distance.
-7. Optical resolution and expected image quality.
-8. Lighting configuration and illumination uniformity.
+This calculation provides a preliminary basis for camera selection:
 
-The camera should therefore be selected backwards from the inspection requirement rather than by megapixel count alone.
+| Parameter | Current design target |
+|---|---:|
+| Minimum defect size | ~0.1 mm |
+| Target sampling density | ~100 px/mm |
+| Pixels across 0.1 mm defect | ~10 px |
+| FOV per tile | 50 × 50 mm |
+| Required image size per tile | ~5000 × 5000 px |
+| Approximate camera resolution | ~25 MP |
+| Example larger coverage | 3 × 3 tiles |
+| Total covered area | ~150 × 150 mm |
+
+The 25 MP / 5000 × 5000 specification should be treated as a **preliminary system design target**, to be confirmed against the actual sensor format, pixel pitch, lens magnification, working distance, optical resolution, and field-of-view requirements.
+
+## 5. Parameters to Confirm for the Final Hardware Configuration
+
+The main system-level imaging targets have already been established: approximately **0.1 mm minimum defect size**, **100 px/mm target sampling density**, and approximately **50 × 50 mm FOV per tile**, corresponding to about **5000 × 5000 pixels (~25 MP)** per tile.
+
+The remaining task is to translate these targets into an actual camera–lens configuration. The following physical parameters should therefore be confirmed:
+
+1. Actual camera sensor dimensions and pixel pitch.
+2. Lens/objective magnification and working distance.
+3. Achievable 50 × 50 mm FOV with the selected sensor and lens.
+4. Optical resolution/MTF at the required working distance.
+5. Distortion and image quality across the tile.
+6. Lighting configuration and illumination uniformity.
+7. Practical overlap and alignment between tiles in the proposed 3 × 3 acquisition strategy.
+
+The camera should therefore be selected from the established inspection requirement and tile geometry, rather than from megapixel count alone.
 
 ## 6. Recommended Next Steps
 
-The current results suggest that a new imaging dataset is not immediately necessary. The next stage should focus on connecting the defect-size analysis to the actual inspection setup.
-
-The following experiment is also recommended within the current detection study:
-
-**Evaluate a stride-4 (P2) feature level in RT-DETR for small defects, particularly Solder Ball.**
-
-This has not yet been evaluated in the RT-DETR experiments and may provide useful evidence on whether additional small-object feature resolution improves localization.
+The current results suggest that a new imaging dataset is not immediately necessary. The next stage should focus on connecting the established imaging requirements to the practical hardware configuration.
 
 For future image collection, capture metadata should also include the camera, lens, working distance, FOV, board identity, and lighting conditions so that imaging variables can be analysed separately from model performance.
 
 ## 7. Conclusion
 
-The imaging analysis was conducted to determine whether FOV variation in the existing PCB dataset is a major factor affecting defect localization. The current results do not show a significant relationship between FOV-related sampling density and localization IoU. In contrast, defect pixel size shows a moderate positive relationship with localization quality.
+The imaging analysis was conducted to determine whether FOV variation in the existing PCB dataset is a major factor affecting defect localization. The current results do not show a statistically significant relationship between FOV-related sampling density and localization IoU, while defect pixel size shows a moderate positive relationship with localization quality.
 
-Based on these findings, the immediate priority should not be to increase camera resolution or collect a new imaging dataset. Instead, the target inspection area, smallest relevant defect, required pixels per defect, and practical FOV should first be defined. These requirements can then be used to determine an appropriate camera, lens, and imaging configuration.
+The imaging requirement has already been translated into a preliminary hardware concept. For a minimum defect size of approximately **0.1 mm**, a target of **100 px/mm** provides approximately 10 pixels across the defect. This leads to a **50 × 50 mm FOV per tile requiring approximately 5000 × 5000 pixels**, corresponding to a **~25 MP camera**. A **3 × 3 tiled acquisition** can then provide approximately **150 × 150 mm total coverage** while maintaining the target sampling density.
 
-The findings should be considered as evidence from the current model and validation split rather than as a final conclusion about all possible imaging conditions.
+The next stage is to verify this preliminary specification using the actual camera sensor, lens, working distance, optical resolution, and lighting configuration. The proposed values should therefore be treated as established system-design targets for hardware evaluation, with the final camera and lens selected after physical verification.
