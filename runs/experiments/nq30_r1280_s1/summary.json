@@ -1,0 +1,38 @@
+{
+  "exp": "nq30_r1280_s1",
+  "config": {
+    "neg": 120,
+    "flipud": 0.5,
+    "nq": 30,
+    "rect": false,
+    "imgsz": 1280,
+    "batch": 8,
+    "epochs": 150,
+    "fold": null,
+    "seed": 1
+  },
+  "map50": 0.724376573358019,
+  "map": 0.48180087405151006,
+  "precision": 0.5845239565693331,
+  "recall": 0.7693811114747009,
+  "per_class_map": {
+    "Component Liftup": 0.5536666666666668,
+    "Component Missing": 0.6004411027568921,
+    "Component No Solder": 0.2780111093953274,
+    "Component Solder Dry": 0.49061779673111416,
+    "Polarity Wrong": 0.5281489863272042,
+    "RYB Wrong Sequence": 0.5759642857142856,
+    "Solder Ball": 0.43911249999999996,
+    "Solder Short": 0.388444544820591
+  },
+  "per_class_ap50": {
+    "Component Liftup": 0.745,
+    "Component Missing": 0.9004385964912278,
+    "Component No Solder": 0.3992125968474486,
+    "Component Solder Dry": 0.69487967766137,
+    "Polarity Wrong": 0.6404172560113156,
+    "RYB Wrong Sequence": 0.8978571428571427,
+    "Solder Ball": 0.84375,
+    "Solder Short": 0.6734573169956475
+  }
+}

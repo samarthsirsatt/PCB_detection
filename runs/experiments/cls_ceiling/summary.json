@@ -1,0 +1,8 @@
+{
+  "exp": "cls_ceiling",
+  "model": "yolo11s-cls.pt",
+  "pad": 0.25,
+  "imgsz": 224,
+  "top1": 0.9065420627593994,
+  "top5": 1.0
+}

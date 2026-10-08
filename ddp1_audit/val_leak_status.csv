@@ -1,0 +1,126 @@
+val_image,val_class,min_dist,nearest_train,train_class,class_conflict
+20260127081803.565_h13v7.312mm.jpg,NEGATIVE,83,20260127081757.035_h14v7.875mm.jpg,NEGATIVE,0
+20260129080016.960_h15v8.438mm.jpg,NEGATIVE,94,categories__Solder Short__Black Brown wire solder short.jpg,Solder Short,0
+20260131082258.305_h40v22.5mm.jpg,NEGATIVE,101,20260213082353.420_h30v16.875mm.jpg,NEGATIVE,0
+20260203091535.371_h16v9mm.jpg,NEGATIVE,87,20260207084608.151_h25v14.062mm.jpg,NEGATIVE,0
+20260207084635.838_h25v14.062mm.jpg,NEGATIVE,28,20260207084608.151_h25v14.062mm.jpg,NEGATIVE,0
+20260219083937.660_h15v8.438mm.jpg,NEGATIVE,73,categories__Solder Short__C1 solder short.jpg,Solder Short,0
+20260225084959.794_h18v10.125mm.jpg,NEGATIVE,91,categories__Solder Short__R1 Solder Short.jpg,Solder Short,0
+20260225090036.146_h12v6.75mm.jpg,NEGATIVE,98,categories__RYB Wrong Sequence__sequence wrong (4).jpg,RYB Wrong Sequence,0
+20260228085308.949_h25v14.062mm.jpg,NEGATIVE,92,categories__Component Solder Dry__Solder Dry.jpg,Component Solder Dry,0
+20260306082726.448_h15v8.438mm.jpg,NEGATIVE,99,20260219085222.902_h8.5v4.781mm.jpg,NEGATIVE,0
+20260310084901.539_h16v9mm.jpg,NEGATIVE,81,categories__Component Solder Dry__Dry Sodler ...jpg,Component Solder Dry,0
+20260314095640.138_h30v16.875mm.jpg,NEGATIVE,96,categories__Solder Short__C9 U1 solder  lead short.jpg,Solder Short,0
+20260314095917.442_h20v11.25mm.jpg,NEGATIVE,95,categories__Component Liftup__Liftup (2).jpg,Component Liftup,0
+20260317085404.854_h25v14.062mm.jpg,NEGATIVE,90,categories__Component No Solder__U1 IC No Solder.jpg,Component No Solder,0
+20260317090216.061_h20v11.25mm.jpg,NEGATIVE,79,categories__Component Solder Dry__J7 connector dry solder (4).jpg,Component Solder Dry,0
+20260326082840.221_h25v14.062mm.jpg,NEGATIVE,5,20260326082841.272_h25v14.062mm.jpg,NEGATIVE,0
+20260404085811.875_h13v7.312mm.jpg,NEGATIVE,80,20260220083002.163_h13v7.312mm.jpg,NEGATIVE,0
+20260407083112.774_h25v14.062mm.jpg,NEGATIVE,84,categories__Component Missing__D10 missing (2).jpg,Component Missing,0
+20260419133402.926_h35v19.688mm.jpg,NEGATIVE,92,20260205093457.310_h1.9v1.069mm.jpg,NEGATIVE,0
+20260419133714.784_h10v5.625mm.jpg,NEGATIVE,90,categories__Component Solder Dry__C12 DRY (1).jpg,Component Solder Dry,0
+20260421074622.437_h30v16.875mm.jpg,NEGATIVE,82,categories__Component Solder Dry__U3 display lead dry solder.jpg,Component Solder Dry,0
+20260421075452.900_h9v5.062mm.jpg,NEGATIVE,87,categories__Component Solder Dry__C12 DRY (2).jpg,Component Solder Dry,0
+20260422085710.060_h35v19.688mm.jpg,NEGATIVE,90,categories__Component No Solder__RV1  no solder.jpg,Component No Solder,0
+20260422092208.117_h15v8.438mm.jpg,NEGATIVE,80,categories__Component Missing__D13 LED missing.jpg,Component Missing,0
+categories__Component Liftup__Component Liftup.jpg,Component Liftup,30,categories__Component Liftup__U5 Liftup.jpg,Component Liftup,0
+categories__Component Liftup__Connecter Liftup (3).jpg,Component Liftup,54,categories__Component Liftup__Connecter Liftup (2).jpg,Component Liftup,0
+categories__Component Liftup__Liftup (3).jpg,Component Liftup,0,categories__Component Liftup__U5 Liftup.jpg,Component Liftup,0
+categories__Component Missing__D11 led missing.jpg,Component Missing,0,categories__Component Missing__D11 led missing (1).jpg,Component Missing,0
+categories__Component Missing__D14 missing.jpg,Component Missing,91,categories__Solder Ball__U1 IC solder boll (4).jpg,Solder Ball,0
+categories__Component Missing__D49 LED MISSING (1).jpg,Component Missing,80,20260213082552.470_h14v7.875mm.jpg,NEGATIVE,0
+categories__Component Missing__D49 LED MISSING.jpg,Component Missing,80,20260213082552.470_h14v7.875mm.jpg,NEGATIVE,0
+categories__Component Missing__J2 connector missing.jpg,Component Missing,0,categories__Component Missing__J2 connector missing (2) (1).jpg,Component Missing,0
+categories__Component Missing__J6 missing.jpg,Component Missing,82,categories__Component No Solder__RV1 no solder (1).jpg,Component No Solder,0
+categories__Component Missing__L1 missing.jpg,Component Missing,2,categories__Component Missing__Missing (2).jpg,Component Missing,0
+categories__Component Missing__L3 Missing.jpg,Component Missing,84,categories__Solder Short__R9 component solder short.jpg,Solder Short,0
+categories__Component Missing__component missing.jpg,Component Missing,0,categories__Component Liftup__component missing.jpg,Component Liftup,1
+categories__Component No Solder__BLACK  wire no solder.jpg,Component No Solder,94,20260316092446.337_h20v11.25mm.jpg,NEGATIVE,0
+categories__Component No Solder__C44 No solder.jpg,Component No Solder,94,categories__Component No Solder__R9 component no solder.jpg,Component No Solder,0
+categories__Component No Solder__J1 Connector No solder.jpg,Component No Solder,0,categories__Component Solder Dry__J1 Connector dry solder (4) (1).jpg,Component Solder Dry,1
+categories__Component No Solder__J10 no solder (1).jpg,Component No Solder,96,categories__Polarity Wrong__D1 LED wrong polarity.jpg,Polarity Wrong,0
+categories__Component No Solder__J10 no solder.jpg,Component No Solder,98,categories__Component Liftup__Connecter Liftup (2).jpg,Component Liftup,0
+categories__Component No Solder__J2 connector pin no solder (1).jpg,Component No Solder,90,categories__Solder Short__J2 solder short.jpg,Solder Short,0
+categories__Component No Solder__J2 connector pin no solder.jpg,Component No Solder,90,categories__Solder Short__J2 solder short.jpg,Solder Short,0
+categories__Component No Solder__No solder (2).jpg,Component No Solder,98,categories__Component Liftup__Liftup (2).jpg,Component Liftup,0
+categories__Component No Solder__Q2 component lead no solder.jpg,Component No Solder,91,categories__Component Solder Dry__J1 connector dry solder (3) (1).jpg,Component Solder Dry,0
+categories__Component No Solder__R2 component no solder.jpg,Component No Solder,0,categories__Component No Solder__R2 component no solder (1).jpg,Component No Solder,0
+categories__Component No Solder__R3 NO SOLDER.jpg,Component No Solder,103,20260330090324.818_h10v5.625mm.jpg,NEGATIVE,0
+categories__Component No Solder__RV1 no solder.jpg,Component No Solder,79,categories__Component Solder Dry__R2 DRY SOLDER (2).jpg,Component Solder Dry,0
+categories__Component No Solder__U5 no solder (1).jpg,Component No Solder,0,categories__Component Liftup__U5 Liftup.jpg,Component Liftup,1
+categories__Component Solder Dry__C12 COMPONENT DRY SOLDER.jpg,Component Solder Dry,97,20260224082151.982_h20v11.25mm.jpg,NEGATIVE,0
+categories__Component Solder Dry__C12 DRY (4).jpg,Component Solder Dry,90,categories__Component Solder Dry__C12 component dry solder (5).jpg,Component Solder Dry,0
+categories__Component Solder Dry__C12 Dry Solder (5).jpg,Component Solder Dry,0,categories__Component Solder Dry__C12 component dry (4) (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__C12 component dry (3).jpg,Component Solder Dry,0,categories__Component Solder Dry__C12 component dry (3) (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__C12 component dry solder (2) (1).jpg,Component Solder Dry,63,categories__Component Solder Dry__C12 component dry solder (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__C12 component dry solder (2).jpg,Component Solder Dry,0,categories__Component Solder Dry__C12 component dry solder (6).jpg,Component Solder Dry,0
+categories__Component Solder Dry__C12 component dry solder (4).jpg,Component Solder Dry,63,categories__Component Solder Dry__C12 component dry solder (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__D1dry.jpg,Component Solder Dry,87,20260209082913.802_h9v5.062mm.jpg,NEGATIVE,0
+categories__Component Solder Dry__D6 led dry.jpg,Component Solder Dry,86,20260310085115.952_h20v11.25mm.jpg,NEGATIVE,0
+categories__Component Solder Dry__J1 CONNECTOR DRY SOLDER (6).jpg,Component Solder Dry,91,categories__Component Solder Dry__Dry Solder.jpg,Component Solder Dry,0
+categories__Component Solder Dry__J1 DRY SOLDER.jpg,Component Solder Dry,8,categories__Component Solder Dry__DRY SOLDER (9).jpg,Component Solder Dry,0
+categories__Component Solder Dry__J1 connector dry solder (3).jpg,Component Solder Dry,0,categories__Component Solder Dry__J1 connector dry solder (2) (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__J1 connector pin dry solder.jpg,Component Solder Dry,84,categories__Component Solder Dry__J1 dry solder (2).jpg,Component Solder Dry,0
+categories__Component Solder Dry__J2 dry solder (2).jpg,Component Solder Dry,89,categories__Component Solder Dry__R1 component dry solder (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__J2 dry.jpg,Component Solder Dry,85,categories__Component Solder Dry__C12 component dry (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__J4 dry solder.jpg,Component Solder Dry,91,categories__Component Liftup__J2 connector lift up.jpg,Component Liftup,0
+categories__Component Solder Dry__J7 DRY.jpg,Component Solder Dry,85,categories__Component Liftup__Connecter Liftup (4).jpg,Component Liftup,0
+categories__Component Solder Dry__J7 connector dry solder (2).jpg,Component Solder Dry,69,categories__Component Solder Dry__J7 connector dry solder (3).jpg,Component Solder Dry,0
+categories__Component Solder Dry__J7 connector dry solder.jpg,Component Solder Dry,96,categories__Solder Ball__U1 IC Solder Short (2).jpg,Solder Ball,0
+categories__Component Solder Dry__Q2 dry solder.jpg,Component Solder Dry,93,categories__Polarity Wrong__C7 wrong polarity.jpg,Polarity Wrong,0
+categories__Component Solder Dry__R2 component dry solder (1).jpg,Component Solder Dry,0,categories__Component Solder Dry__R2 component dry solder (2).jpg,Component Solder Dry,0
+categories__Component Solder Dry__R2 dry solder.jpg,Component Solder Dry,84,20260312084217.034_h12v6.75mm.jpg,NEGATIVE,0
+categories__Component Solder Dry__R8 DRY solder.jpg,Component Solder Dry,80,20260228085143.364_h20v11.25mm.jpg,NEGATIVE,0
+categories__Component Solder Dry__RV1 lead dry solder.jpg,Component Solder Dry,95,categories__Component Solder Dry__C12 component dry (2) (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__Solde Dry.jpg,Component Solder Dry,96,categories__Component Solder Dry__J1 Connector dry solder (4) (1).jpg,Component Solder Dry,0
+categories__Component Solder Dry__Solder Dry (3).jpg,Component Solder Dry,88,categories__Component No Solder__J1 lead no solder (1).jpg,Component No Solder,0
+categories__Component Solder Dry__U3 Display pin dry solder (2).jpg,Component Solder Dry,0,categories__Component Solder Dry__U3 Display pin dry solder (2) (1).jpg,Component Solder Dry,0
+categories__Polarity Wrong__D2 LED polarity wrong.jpg,Polarity Wrong,91,categories__Solder Short__D1 component solder short.jpg,Solder Short,0
+categories__Polarity Wrong__J1 connector polarity wrong (2) (1).jpg,Polarity Wrong,98,categories__Component No Solder__R6 component no solder.jpg,Component No Solder,0
+categories__Polarity Wrong__J2 connector polarity wrong.jpg,Polarity Wrong,105,categories__Polarity Wrong__D1 LED wrong polarity.jpg,Polarity Wrong,0
+categories__Polarity Wrong__J2 polarity wrong.jpg,Polarity Wrong,94,categories__Component Solder Dry__U3 display lead dry solder.jpg,Component Solder Dry,0
+categories__Polarity Wrong__J4 connector wrong polarity.jpg,Polarity Wrong,81,categories__Polarity Wrong__J4 connector polarity wrong.jpg,Polarity Wrong,0
+categories__Polarity Wrong__J4 wrong polarity.jpg,Polarity Wrong,91,categories__Component Missing__J8 missing.jpg,Component Missing,0
+categories__Polarity Wrong__Q7 component polarity wrong.jpg,Polarity Wrong,93,categories__Solder Short__C24 Solder Short.jpg,Solder Short,0
+categories__RYB Wrong Sequence__RYB sequence wrong (1).jpg,RYB Wrong Sequence,78,20260414084437.327_h30v16.875mm.jpg,NEGATIVE,0
+categories__RYB Wrong Sequence__RYB sequence wrong (3).jpg,RYB Wrong Sequence,92,categories__Component Solder Dry__C12 component dry solder (6).jpg,Component Solder Dry,0
+categories__RYB Wrong Sequence__sequence wrong (1).jpg,RYB Wrong Sequence,0,categories__RYB Wrong Sequence__sequence wrong (4).jpg,RYB Wrong Sequence,0
+categories__RYB Wrong Sequence__sequence wrong (2) (1).jpg,RYB Wrong Sequence,73,categories__RYB Wrong Sequence__sequence wrong (4).jpg,RYB Wrong Sequence,0
+categories__RYB Wrong Sequence__sequence wrong (3) (1).jpg,RYB Wrong Sequence,0,categories__RYB Wrong Sequence__sequence wrong (3).jpg,RYB Wrong Sequence,0
+categories__Solder Ball__C12 solder boll short.jpg,Solder Ball,71,categories__Solder Short__C41 component solder short.jpg,Solder Short,0
+categories__Solder Ball__J2 connector Boll.jpg,Solder Ball,84,20260213082552.470_h14v7.875mm.jpg,NEGATIVE,0
+categories__Solder Ball__Solder boll (3).jpg,Solder Ball,71,categories__Solder Short__C41 component solder short.jpg,Solder Short,0
+categories__Solder Ball__U1 IC Solder Boll (3).jpg,Solder Ball,88,categories__Component No Solder__U1 IC No Solder.jpg,Component No Solder,0
+categories__Solder Ball__U4 IC Solder Boll.jpg,Solder Ball,87,categories__Solder Short__U4 solder short (2).jpg,Solder Short,0
+categories__Solder Ball__U4 IC solder short by solder ball.jpg,Solder Ball,0,categories__Solder Short__U4 IC solder short by solder ball (2).jpg,Solder Short,1
+categories__Solder Ball__U4IC SOLDER BOLL.jpg,Solder Ball,11,categories__Solder Ball__U4 Solder boll (3).jpg,Solder Ball,0
+categories__Solder Short__C1 Q1 SOLDER SHORT.jpg,Solder Short,79,categories__Component Solder Dry__U3 display lead dry solder.jpg,Component Solder Dry,0
+categories__Solder Short__C12 SOLDER SHORT.jpg,Solder Short,82,categories__Component Solder Dry__R2 component dry solder (2) (1).jpg,Component Solder Dry,0
+categories__Solder Short__C21 component solder short.jpg,Solder Short,93,categories__Component Liftup__R6 Lift-up.jpg,Component Liftup,0
+categories__Solder Short__C34 component short.jpg,Solder Short,97,categories__Component Solder Dry__U3 display lead dry solder.jpg,Component Solder Dry,0
+categories__Solder Short__C41 component solder short (2).jpg,Solder Short,79,20260409083652.849_h25v14.062mm.jpg,NEGATIVE,0
+categories__Solder Short__J1 J4 connnector solder short.jpg,Solder Short,86,categories__Solder Short__J1 connector solder short (19).jpg,Solder Short,0
+categories__Solder Short__J1 connector solder short (10).jpg,Solder Short,0,categories__Solder Short__J1 connector solder short (19).jpg,Solder Short,0
+categories__Solder Short__J1 connector solder short (15).jpg,Solder Short,0,categories__Solder Short__J1 connector solder short (5).jpg,Solder Short,0
+categories__Solder Short__J1 connector solder short (3).jpg,Solder Short,94,categories__Solder Short__C11 Solder Short.jpg,Solder Short,0
+categories__Solder Short__J2 CONNECTOR LIFT-UP.jpg,Solder Short,0,categories__Component Liftup__Connecter Liftup (4).jpg,Component Liftup,1
+categories__Solder Short__J2 connector solder short (9).jpg,Solder Short,0,categories__Solder Short__J2 connector solder short (3).jpg,Solder Short,0
+categories__Solder Short__J3 connector solder short.jpg,Solder Short,96,20260308083431.935_h25v14.062mm.jpg,NEGATIVE,0
+categories__Solder Short__Q2 component solder short (4).jpg,Solder Short,0,categories__Solder Short__Q2 component solder short (3).jpg,Solder Short,0
+categories__Solder Short__Q6 solder short.jpg,Solder Short,91,categories__Component Missing__J1 Connector MIssing (2).jpg,Component Missing,0
+categories__Solder Short__R1 C29 solder flask.jpg,Solder Short,87,20260205093740.516_h1.5v0.844mm.jpg,NEGATIVE,0
+categories__Solder Short__R16 component solder short.jpg,Solder Short,0,categories__Solder Short__R16 component solder short (2).jpg,Solder Short,0
+categories__Solder Short__R17 Q2 SOLDER SHORT.jpg,Solder Short,88,categories__Component No Solder__J1 lead no solder.jpg,Component No Solder,0
+categories__Solder Short__Solder short (13).jpg,Solder Short,93,20260213082552.470_h14v7.875mm.jpg,NEGATIVE,0
+categories__Solder Short__Solder short (14).jpg,Solder Short,94,categories__Component Solder Dry__J1 connector dry solder (2) (1).jpg,Component Solder Dry,0
+categories__Solder Short__Solder short (3).jpg,Solder Short,76,categories__Solder Short__J1 connector solder short (12).jpg,Solder Short,0
+categories__Solder Short__Solder short (4).jpg,Solder Short,92,categories__Component Solder Dry__R2 DRY SOLDER (2).jpg,Component Solder Dry,0
+categories__Solder Short__Solder short (9).jpg,Solder Short,85,categories__Component Solder Dry__R2 dry.jpg,Component Solder Dry,0
+categories__Solder Short__U2 IC solder short (2).jpg,Solder Short,85,20260205093457.310_h1.9v1.069mm.jpg,NEGATIVE,0
+categories__Solder Short__U2 IC solder short (5).jpg,Solder Short,95,20260203085345.787_h20v11.25mm.jpg,NEGATIVE,0
+categories__Solder Short__U2 solder Short.jpg,Solder Short,100,categories__Component Liftup__Connecter Lift-up.jpg,Component Liftup,0
+categories__Solder Short__U3 Display pin solder short (2).jpg,Solder Short,0,categories__Solder Short__U3 Display pin solder short.jpg,Solder Short,0
+categories__Solder Short__U4 IC solder short (3).jpg,Solder Short,0,categories__Solder Short__U4 IC solder short (2).jpg,Solder Short,0
+categories__Solder Short__U5 IC SOLDER SHORT.jpg,Solder Short,79,categories__Component Solder Dry__R2 dry.jpg,Component Solder Dry,0
+categories__Solder Short__U5 IC solder short (4).jpg,Solder Short,93,categories__Solder Short__U4 IC solder short (2).jpg,Solder Short,0
+categories__Solder Short__solder short (20).jpg,Solder Short,0,categories__Solder Short__solder short (16).jpg,Solder Short,0

@@ -1,0 +1,40 @@
+{
+  "exp": "gmo_p2_s1",
+  "model": "GMO-DETR",
+  "config": {
+    "neg": 120,
+    "flipud": 0.5,
+    "nq": 300,
+    "p2": true,
+    "imgsz": 640,
+    "batch": 8,
+    "epochs": 200,
+    "fold": null,
+    "seed": 1,
+    "params_m": 20.33
+  },
+  "map50": 0.36058138738388984,
+  "map": 0.21075241067970177,
+  "precision": 0.2977447271424013,
+  "recall": 0.40916248314803694,
+  "per_class_map": {
+    "Component Liftup": 0.4425739601629216,
+    "Component Missing": 0.2813232749132065,
+    "Component No Solder": 0.13105921277860558,
+    "Component Solder Dry": 0.2115792118935315,
+    "Polarity Wrong": 0.04957761631697061,
+    "RYB Wrong Sequence": 0.16454011037277996,
+    "Solder Ball": 0.12718842456401586,
+    "Solder Short": 0.2781774744355827
+  },
+  "per_class_ap50": {
+    "Component Liftup": 0.6726315789473684,
+    "Component Missing": 0.4615434902968441,
+    "Component No Solder": 0.2090404311463498,
+    "Component Solder Dry": 0.38974822156963196,
+    "Polarity Wrong": 0.0729498647805284,
+    "RYB Wrong Sequence": 0.36930228419487887,
+    "Solder Ball": 0.21582738095238102,
+    "Solder Short": 0.4936078471831362
+  }
+}

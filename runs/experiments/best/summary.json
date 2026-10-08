@@ -1,0 +1,38 @@
+{
+  "exp": "best",
+  "config": {
+    "neg": 300,
+    "flipud": 0.0,
+    "nq": 30,
+    "rect": false,
+    "imgsz": 1280,
+    "batch": 8,
+    "epochs": 150,
+    "fold": null,
+    "seed": 42
+  },
+  "map50": 0.7622856373698137,
+  "map": 0.4524513575440242,
+  "precision": 0.7803770295571557,
+  "recall": 0.7477548349935617,
+  "per_class_map": {
+    "Component Liftup": 0.47916022519780893,
+    "Component Missing": 0.6870468253968254,
+    "Component No Solder": 0.328795271377615,
+    "Component Solder Dry": 0.4348285036177744,
+    "Polarity Wrong": 0.546832422586521,
+    "RYB Wrong Sequence": 0.39941056910569095,
+    "Solder Ball": 0.3755357142857143,
+    "Solder Short": 0.3680013287842439
+  },
+  "per_class_ap50": {
+    "Component Liftup": 0.845,
+    "Component Missing": 0.984,
+    "Component No Solder": 0.41774390243902443,
+    "Component Solder Dry": 0.7594890166565711,
+    "Polarity Wrong": 0.6184426229508198,
+    "RYB Wrong Sequence": 0.9616666666666666,
+    "Solder Ball": 0.9092857142857143,
+    "Solder Short": 0.6026571759597139
+  }
+}

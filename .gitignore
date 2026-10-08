@@ -1,5 +1,14 @@
-data/
-runs/
+data/**
+!data/**/
+!data/pcb_all_work/coco/annotations/instances_default.json
+runs/**
+!runs/**/
+!runs/**/summary.json
+!runs/**/results.csv
+!runs/**/args.yaml
+!runs/experiments/nq30/*.png
+!runs/experiments/nq30/*.jpg
+!runs/experiments/nq30/weights/best.pt
 logs/
 offline/
 __pycache__/

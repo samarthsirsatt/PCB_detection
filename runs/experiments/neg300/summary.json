@@ -1,0 +1,28 @@
+{
+  "exp": "neg300",
+  "config": {
+    "neg": 300,
+    "flipud": 0.5,
+    "nq": 300,
+    "rect": false,
+    "imgsz": 640,
+    "batch": 8,
+    "epochs": 150,
+    "fold": null
+  },
+  "map50": 0.7649234679754456,
+  "map": 0.517657507556517,
+  "precision": 0.7578740993995263,
+  "recall": 0.7602553651216555,
+  "per_class_map": {
+    "Component Liftup": 0.5743713205579063,
+    "Component Missing": 0.6942212548129463,
+    "Component No Solder": 0.32313077523616696,
+    "Component Solder Dry": 0.4858568876703281,
+    "Polarity Wrong": 0.6294872865687706,
+    "RYB Wrong Sequence": 0.45213683103315433,
+    "Solder Ball": 0.509000519335472,
+    "Solder Short": 0.4730551852373912
+  },
+  "per_class_ap50": null
+}
