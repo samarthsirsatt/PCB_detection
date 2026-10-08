@@ -1,0 +1,180 @@
+{
+  "10-15 mm": {
+    "n_images": 20,
+    "n_pos_images": 16,
+    "n_neg_images": 4,
+    "n_boxes": 17,
+    "map50": 0.7295512820512821,
+    "map": 0.48682281005096073,
+    "precision": 0.7531510792082372,
+    "recall": 0.7248677248677248,
+    "per_class_ap50": {
+      "Component Missing": 0.995,
+      "Component Solder Dry": 0.885,
+      "Solder Short": 0.30865384615384617
+    },
+    "per_class_map": {
+      "Component Missing": 0.597,
+      "Component Solder Dry": 0.6896267857142857,
+      "Solder Short": 0.1738416444385967
+    }
+  },
+  "15-20 mm": {
+    "n_images": 28,
+    "n_pos_images": 21,
+    "n_neg_images": 7,
+    "n_boxes": 21,
+    "map50": 0.7730700469163502,
+    "map": 0.5068817709753433,
+    "precision": 0.7628120974670822,
+    "recall": 0.8472222222222222,
+    "per_class_ap50": {
+      "Component Missing": 0.995,
+      "Component No Solder": 0.3347298053076251,
+      "Component Solder Dry": 0.9283333333333333,
+      "RYB Wrong Sequence": 0.995,
+      "Solder Ball": 0.4975,
+      "Solder Short": 0.8878571428571426
+    },
+    "per_class_map": {
+      "Component Missing": 0.615125,
+      "Component No Solder": 0.2426109292698692,
+      "Component Solder Dry": 0.6081655844155844,
+      "RYB Wrong Sequence": 0.796,
+      "Solder Ball": 0.21503196930946294,
+      "Solder Short": 0.5643571428571427
+    }
+  },
+  "30-40 mm": {
+    "n_images": 28,
+    "n_pos_images": 23,
+    "n_neg_images": 5,
+    "n_boxes": 26,
+    "map50": 0.8090625,
+    "map": 0.5780190212151364,
+    "precision": 0.7454202033101155,
+    "recall": 0.789586944280422,
+    "per_class_ap50": {
+      "Component Liftup": 0.995,
+      "Component Missing": 0.9125000000000002,
+      "Component No Solder": 0.495,
+      "Component Solder Dry": 0.7033333333333334,
+      "Polarity Wrong": 0.5283333333333334,
+      "RYB Wrong Sequence": 0.995,
+      "Solder Ball": 0.995,
+      "Solder Short": 0.8483333333333334
+    },
+    "per_class_map": {
+      "Component Liftup": 0.49749999999999994,
+      "Component Missing": 0.7885000000000002,
+      "Component No Solder": 0.321,
+      "Component Solder Dry": 0.48886036036036035,
+      "Polarity Wrong": 0.5183333333333333,
+      "RYB Wrong Sequence": 0.6315730593607305,
+      "Solder Ball": 0.80221875,
+      "Solder Short": 0.5761666666666667
+    }
+  },
+  "25-30 mm": {
+    "n_images": 17,
+    "n_pos_images": 12,
+    "n_neg_images": 5,
+    "n_boxes": 13,
+    "map50": 0.7005779220779221,
+    "map": 0.5804248790425262,
+    "precision": 0.9229846601836262,
+    "recall": 0.579699718988946,
+    "per_class_ap50": {
+      "Component No Solder": 0.665,
+      "Component Solder Dry": 0.995,
+      "Polarity Wrong": 0.995,
+      "Solder Ball": 0.07107142857142855,
+      "Solder Short": 0.7768181818181816
+    },
+    "per_class_map": {
+      "Component No Solder": 0.5655000000000001,
+      "Component Solder Dry": 0.845,
+      "Polarity Wrong": 0.945,
+      "Solder Ball": 0.035535714285714275,
+      "Solder Short": 0.5110886809269162
+    }
+  },
+  "20-25 mm": {
+    "n_images": 22,
+    "n_pos_images": 20,
+    "n_neg_images": 2,
+    "n_boxes": 20,
+    "map50": 0.8378869047619047,
+    "map": 0.6511822344322343,
+    "precision": 0.770869967848873,
+    "recall": 0.7890070210166599,
+    "per_class_ap50": {
+      "Component Liftup": 0.8300000000000002,
+      "Component Missing": 0.995,
+      "Component No Solder": 0.495,
+      "Component Solder Dry": 0.8283333333333331,
+      "Polarity Wrong": 0.7268749999999999,
+      "Solder Ball": 0.995,
+      "Solder Short": 0.995
+    },
+    "per_class_map": {
+      "Component Liftup": 0.7475000000000002,
+      "Component Missing": 0.8955,
+      "Component No Solder": 0.40824999999999995,
+      "Component Solder Dry": 0.6788333333333332,
+      "Polarity Wrong": 0.6479999999999999,
+      "Solder Ball": 0.5341923076923076,
+      "Solder Short": 0.646
+    }
+  },
+  "1-10 mm": {
+    "n_images": 10,
+    "n_pos_images": 9,
+    "n_neg_images": 1,
+    "n_boxes": 10,
+    "map50": 0.9172222222222223,
+    "map": 0.6450685185185185,
+    "precision": 0.7154835787197875,
+    "recall": 0.9166666666666666,
+    "per_class_ap50": {
+      "Component Solder Dry": 0.945,
+      "Solder Ball": 0.995,
+      "Solder Short": 0.8116666666666668
+    },
+    "per_class_map": {
+      "Component Solder Dry": 0.7143999999999999,
+      "Solder Ball": 0.746,
+      "Solder Short": 0.4748055555555556
+    }
+  },
+  "ALL": {
+    "n_images": 125,
+    "n_pos_images": 101,
+    "n_neg_images": 24,
+    "n_boxes": 107,
+    "map50": 0.789757076421307,
+    "map": 0.5673569658850244,
+    "precision": 0.7451390574588799,
+    "recall": 0.7790744280658177,
+    "per_class_ap50": {
+      "Component Liftup": 0.895,
+      "Component Missing": 0.984,
+      "Component No Solder": 0.4721231882011897,
+      "Component Solder Dry": 0.8422000125478385,
+      "Polarity Wrong": 0.6273030303030303,
+      "RYB Wrong Sequence": 0.995,
+      "Solder Ball": 0.7832634920634922,
+      "Solder Short": 0.7191668882549052
+    },
+    "per_class_map": {
+      "Component Liftup": 0.7325,
+      "Component Missing": 0.7102333333333333,
+      "Component No Solder": 0.3650133986051502,
+      "Component Solder Dry": 0.6163119951283658,
+      "Polarity Wrong": 0.5807727272727272,
+      "RYB Wrong Sequence": 0.66053125,
+      "Solder Ball": 0.42185072324442235,
+      "Solder Short": 0.45164229949619666
+    }
+  }
+}

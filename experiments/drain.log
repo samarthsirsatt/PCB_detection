@@ -1,0 +1,11 @@
+23:36:12 submitted flipud0 -> 297453 [FLIPUD=0]
+23:54:12 submitted nq30 -> 297460 [NUM_QUERIES=30]
+00:20:13 submitted rect -> 297471 [RECT=1]
+00:28:13 submitted res960 -> 297475 [IMGSZ=960]
+00:52:13 submitted res1280 -> 297489 [IMGSZ=1280]
+01:07:13 submitted cv0 -> 297494 [FOLD=0]
+01:10:13 submitted cv1 -> 297495 [FOLD=1]
+01:14:13 submitted cv2 -> 297496 [FOLD=2]
+01:35:14 submitted cv3 -> 297498 [FOLD=3]
+01:36:14 submitted cv4 -> 297500 [FOLD=4]
+01:37:14 queue drained

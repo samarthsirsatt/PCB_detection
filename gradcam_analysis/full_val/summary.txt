@@ -1,0 +1,35 @@
+Grad-CAM on all 107 validation defects (layer 24, conf 0.25)
+
+1. What happened to each defect
+   correct                    83  (78%)
+   looked_but_low_score       13  (12%)
+   never_looked                6  (6%)
+   classification_error        3  (3%)
+   localization_error          2  (2%)
+
+2. Was the heatmap peak on the defect?
+   correct                   53/83  (64%)
+   never_looked               0/6   (0%)
+   classification_error       1/3   (33%)
+   looked_but_low_score       3/13  (23%)
+   localization_error         0/2   (0%)
+
+3. Per class
+   class                    n  correct  missed wrong cls  bad box  CAM on defect
+   Component Liftup         4        4       0         0        0        4/4  
+   Component Missing        9        9       0         0        0        6/9  
+   Component No Solder     17        8       7         1        1        5/17 
+   Component Solder Dry    27       26       1         0        0       16/27 
+   Polarity Wrong           7        4       2         1        0        5/7  
+   RYB Wrong Sequence       5        5       0         0        0        3/5  
+   Solder Ball              8        7       1         0        0        4/8  
+   Solder Short            30       20       8         1        1       14/30 
+
+4. Wrong-class detections (true -> predicted)
+   Component No Solder -> Component Solder Dry: 1
+   Polarity Wrong -> Component Solder Dry: 1
+   Solder Short -> Solder Ball: 1
+
+5. Defect size: correct vs missed (median share of frame)
+   correct                  4.27%  (n=83)
+   missed_detection         3.17%  (n=19)

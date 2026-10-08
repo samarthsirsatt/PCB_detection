@@ -1,0 +1,108 @@
+image,gt_idx,ground_truth_class,gt_w_px,gt_h_px,predicted_class,confidence,IoU,error_category,target_query,n_dets
+categories__Component Liftup__Component Liftup.jpg,0,Component Liftup,630.4,515.2,Component Liftup,0.9422,0.9632,correct,0,1
+categories__Component Liftup__Connecter Liftup (3).jpg,0,Component Liftup,534.0,146.8,Component Liftup,0.9053,0.8148,correct,0,1
+categories__Component Liftup__Liftup (3).jpg,0,Component Liftup,644.3,523.1,Component Liftup,0.9399,0.9501,correct,0,1
+categories__Component Missing__D11 led missing.jpg,0,Component Missing,327.8,201.0,Component Missing,0.9482,0.8362,correct,0,1
+categories__Component Missing__D14 missing.jpg,0,Component Missing,414.8,151.1,Component Missing,0.9357,0.7755,correct,0,1
+categories__Component Missing__D49 LED MISSING (1).jpg,0,Component Missing,325.0,153.9,Component Missing,0.952,0.695,correct,0,1
+categories__Component Missing__D49 LED MISSING.jpg,0,Component Missing,342.1,196.7,Component Missing,0.952,0.9286,correct,0,1
+categories__Component Missing__J2 connector missing.jpg,0,Component Missing,434.7,389.1,Component Missing,0.9536,0.9484,correct,0,1
+categories__Component Missing__J6 missing.jpg,0,Component Missing,573.0,245.2,Component Missing,0.9558,0.9309,correct,0,1
+categories__Component Missing__L1 missing.jpg,0,Component Missing,349.2,339.2,Component Missing,0.948,0.9527,correct,0,1
+categories__Component Missing__L3 Missing.jpg,0,Component Missing,320.7,283.6,Component Missing,0.7713,0.8461,correct,0,1
+categories__Component Missing__component missing.jpg,0,Component Missing,350.6,149.7,Component Missing,0.9302,0.9025,correct,0,1
+categories__Component No Solder__BLACK  wire no solder.jpg,0,Component No Solder,152.5,134.0,,,0.0947,missed_detection,19,0
+categories__Component No Solder__C44 No solder.jpg,0,Component No Solder,132.6,179.6,Component No Solder,0.9195,0.8906,correct,0,2
+categories__Component No Solder__J1 Connector No solder.jpg,0,Component No Solder,141.1,142.5,Component Solder Dry,0.928,0.7882,classification_error,0,1
+categories__Component No Solder__J10 no solder (1).jpg,0,Component No Solder,111.2,96.9,,,0.2108,missed_detection,9,1
+categories__Component No Solder__J10 no solder.jpg,0,Component No Solder,108.3,124.0,,,0.186,missed_detection,13,0
+categories__Component No Solder__J2 connector pin no solder (1).jpg,0,Component No Solder,182.9,171.4,,,0.6447,missed_detection,7,0
+categories__Component No Solder__J2 connector pin no solder.jpg,0,Component No Solder,172.8,171.4,,,0.5752,missed_detection,7,0
+categories__Component No Solder__No solder (2).jpg,0,Component No Solder,137.1,148.6,Component No Solder,0.8461,0.7374,correct,0,1
+categories__Component No Solder__Q2 component lead no solder.jpg,0,Component No Solder,145.7,200.0,Component No Solder,0.3578,0.3726,localization_error,2,1
+categories__Component No Solder__R2 component no solder.jpg,0,Component No Solder,157.1,205.7,Component No Solder,0.897,0.8325,correct,0,1
+categories__Component No Solder__R3 NO SOLDER.jpg,0,Component No Solder,168.6,174.3,,,0.065,missed_detection,14,2
+categories__Component No Solder__RV1 no solder.jpg,0,Component No Solder,135.7,110.0,Component No Solder,0.9214,0.8745,correct,0,1
+categories__Component No Solder__U5 no solder (1).jpg,0,Component No Solder,107.0,107.0,,,0.1764,missed_detection,14,1
+categories__Component Solder Dry__C12 COMPONENT DRY SOLDER.jpg,0,Component Solder Dry,206.4,239.3,Component Solder Dry,0.9181,0.8517,correct,0,1
+categories__Component Solder Dry__C12 DRY (4).jpg,0,Component Solder Dry,379.9,420.7,Component Solder Dry,0.9031,0.9092,correct,0,1
+categories__Component Solder Dry__C12 Dry Solder (5).jpg,0,Component Solder Dry,139.4,224.8,Component Solder Dry,0.9292,0.9213,correct,0,1
+categories__Component Solder Dry__C12 component dry (3).jpg,0,Component Solder Dry,207.7,390.5,Component Solder Dry,0.9246,0.9045,correct,0,1
+categories__Component Solder Dry__C12 component dry solder (2) (1).jpg,0,Component Solder Dry,223.6,236.2,Component Solder Dry,0.9298,0.8962,correct,0,2
+categories__Component Solder Dry__C12 component dry solder (2) (1).jpg,1,Component Solder Dry,197.2,216.9,Component Solder Dry,0.9316,0.8475,correct,1,2
+categories__Component Solder Dry__C12 component dry solder (2).jpg,0,Component Solder Dry,181.4,273.5,Component Solder Dry,0.9289,0.8065,correct,0,1
+categories__Component Solder Dry__C12 component dry solder (4).jpg,0,Component Solder Dry,218.2,213.0,Component Solder Dry,0.9316,0.8708,correct,1,2
+categories__Component Solder Dry__D1dry.jpg,0,Component Solder Dry,266.9,190.6,Component Solder Dry,0.9293,0.7446,correct,0,1
+categories__Component Solder Dry__D6 led dry.jpg,0,Component Solder Dry,249.8,65.7,Component Solder Dry,0.7121,0.9523,correct,0,1
+categories__Component Solder Dry__J1 CONNECTOR DRY SOLDER (6).jpg,0,Component Solder Dry,110.4,103.9,Component Solder Dry,0.7858,0.8468,correct,0,1
+categories__Component Solder Dry__J1 DRY SOLDER.jpg,0,Component No Solder,152.5,173.5,Component No Solder,0.9268,0.9443,correct,0,2
+categories__Component Solder Dry__J1 connector dry solder (3).jpg,0,Component Solder Dry,142.0,128.8,Component Solder Dry,0.9282,0.8851,correct,0,1
+categories__Component Solder Dry__J1 connector pin dry solder.jpg,0,Component Solder Dry,118.3,98.6,Component Solder Dry,0.9218,0.8324,correct,1,4
+categories__Component Solder Dry__J2 dry solder (2).jpg,0,Component Solder Dry,85.5,90.7,Component Solder Dry,0.8994,0.8927,correct,0,1
+categories__Component Solder Dry__J2 dry.jpg,0,Component No Solder,122.3,132.8,Component No Solder,0.9162,0.9101,correct,0,1
+categories__Component Solder Dry__J4 dry solder.jpg,0,Component No Solder,151.2,156.4,Component No Solder,0.9228,0.9503,correct,0,2
+categories__Component Solder Dry__J4 dry solder.jpg,1,Component No Solder,160.4,157.8,Component No Solder,0.9233,0.8968,correct,1,2
+categories__Component Solder Dry__J7 DRY.jpg,0,Component Solder Dry,159.1,153.8,Component Solder Dry,0.9246,0.9115,correct,0,1
+categories__Component Solder Dry__J7 connector dry solder (2).jpg,0,Component Solder Dry,178.8,198.5,Component Solder Dry,0.9298,0.8594,correct,0,1
+categories__Component Solder Dry__J7 connector dry solder.jpg,0,Component Solder Dry,213.0,205.1,Component Solder Dry,0.9305,0.907,correct,0,1
+categories__Component Solder Dry__Q2 dry solder.jpg,0,Component Solder Dry,367.9,184.1,,,0.7835,missed_detection,0,0
+categories__Component Solder Dry__R2 component dry solder (1).jpg,0,Component Solder Dry,195.9,210.4,Component Solder Dry,0.9223,0.8271,correct,0,1
+categories__Component Solder Dry__R2 dry solder.jpg,0,Component Solder Dry,231.4,358.7,Component Solder Dry,0.9026,0.8205,correct,0,1
+categories__Component Solder Dry__R8 DRY solder.jpg,0,Component Solder Dry,133.1,185.1,Component Solder Dry,0.3367,0.8147,correct,0,2
+categories__Component Solder Dry__RV1 lead dry solder.jpg,0,Component Solder Dry,264.7,219.8,Component Solder Dry,0.9234,0.8424,correct,1,1
+categories__Component Solder Dry__Solde Dry.jpg,0,Component Solder Dry,104.1,108.5,Component Solder Dry,0.427,0.8709,correct,2,4
+categories__Component Solder Dry__Solde Dry.jpg,1,Component Solder Dry,102.7,105.6,Component Solder Dry,0.7923,0.8301,correct,0,4
+categories__Component Solder Dry__Solde Dry.jpg,2,Component Solder Dry,101.2,120.0,Component Solder Dry,0.4447,0.7998,correct,1,4
+categories__Component Solder Dry__Solder Dry (3).jpg,0,Component Solder Dry,234.3,351.5,Component Solder Dry,0.8762,0.8416,correct,0,1
+categories__Component Solder Dry__U3 Display pin dry solder (2).jpg,0,Component Solder Dry,111.2,109.8,Component Solder Dry,0.9297,0.9515,correct,0,1
+categories__Polarity Wrong__D2 LED polarity wrong.jpg,0,Polarity Wrong,250.9,380.6,Component Solder Dry,0.9035,0.8575,classification_error,0,1
+categories__Polarity Wrong__J1 connector polarity wrong (2) (1).jpg,0,Polarity Wrong,748.3,407.7,Polarity Wrong,0.9657,0.964,correct,1,1
+categories__Polarity Wrong__J2 connector polarity wrong.jpg,0,Polarity Wrong,507.4,561.6,,,0.9364,missed_detection,1,0
+categories__Polarity Wrong__J2 polarity wrong.jpg,0,Polarity Wrong,1117.5,441.9,,,0.9354,missed_detection,0,0
+categories__Polarity Wrong__J4 connector wrong polarity.jpg,0,Polarity Wrong,527.4,466.1,Polarity Wrong,0.9684,0.9622,correct,0,1
+categories__Polarity Wrong__J4 wrong polarity.jpg,0,Polarity Wrong,671.4,567.3,Polarity Wrong,0.9698,0.9243,correct,0,1
+categories__Polarity Wrong__Q7 component polarity wrong.jpg,0,Polarity Wrong,396.5,481.8,Polarity Wrong,0.9387,0.9321,correct,0,1
+categories__RYB Wrong Sequence__RYB sequence wrong (1).jpg,0,RYB Wrong Sequence,671.4,658.5,RYB Wrong Sequence,0.9261,0.9043,correct,0,1
+categories__RYB Wrong Sequence__RYB sequence wrong (3).jpg,0,RYB Wrong Sequence,474.7,601.5,RYB Wrong Sequence,0.4049,0.7518,correct,1,1
+categories__RYB Wrong Sequence__sequence wrong (1).jpg,0,RYB Wrong Sequence,496.0,282.2,RYB Wrong Sequence,0.9238,0.6511,correct,0,1
+categories__RYB Wrong Sequence__sequence wrong (2) (1).jpg,0,RYB Wrong Sequence,494.6,222.4,RYB Wrong Sequence,0.8151,0.8755,correct,0,2
+categories__RYB Wrong Sequence__sequence wrong (3) (1).jpg,0,RYB Wrong Sequence,478.9,360.6,RYB Wrong Sequence,0.9294,0.8615,correct,0,1
+categories__Solder Ball__C12 solder boll short.jpg,0,Solder Ball,177.1,170.0,Solder Ball,0.3433,0.8302,correct,0,2
+categories__Solder Ball__J2 connector Boll.jpg,0,Solder Ball,107.2,81.7,Solder Ball,0.636,0.8799,correct,2,2
+categories__Solder Ball__Solder boll (3).jpg,0,Solder Ball,165.8,152.0,Solder Ball,0.3433,0.9365,correct,0,2
+categories__Solder Ball__U1 IC Solder Boll (3).jpg,0,Solder Ball,83.2,78.4,Solder Ball,0.8869,0.9141,correct,0,1
+categories__Solder Ball__U4 IC Solder Boll.jpg,0,Solder Ball,46.8,44.2,Solder Ball,0.8431,0.6841,correct,0,1
+categories__Solder Ball__U4 IC solder short by solder ball.jpg,0,Solder Ball,50.3,49.9,Solder Ball,0.8701,0.6952,correct,0,1
+categories__Solder Ball__U4IC SOLDER BOLL.jpg,0,Solder Ball,82.7,64.1,Solder Ball,0.8727,0.6329,correct,0,1
+categories__Solder Short__C1 Q1 SOLDER SHORT.jpg,0,Solder Ball,49.9,52.7,,,0.7055,missed_detection,16,1
+categories__Solder Short__C12 SOLDER SHORT.jpg,0,Solder Short,538.8,451.9,Solder Short,0.7823,0.8431,correct,3,2
+categories__Solder Short__C21 component solder short.jpg,0,Solder Short,456.1,275.1,Solder Short,0.614,0.6987,correct,0,3
+categories__Solder Short__C34 component short.jpg,0,Solder Short,259.4,453.3,,,0.6034,missed_detection,27,0
+categories__Solder Short__C41 component solder short (2).jpg,0,Solder Short,467.5,272.2,Solder Short,0.6571,0.9655,correct,0,2
+categories__Solder Short__J1 J4 connnector solder short.jpg,0,Solder Short,200.8,115.5,Solder Short,0.9132,0.9071,correct,1,2
+categories__Solder Short__J1 J4 connnector solder short.jpg,1,Solder Short,186.9,96.2,Solder Short,0.9176,0.8304,correct,0,2
+categories__Solder Short__J1 connector solder short (10).jpg,0,Solder Short,195.9,137.8,Solder Short,0.9211,0.9108,correct,0,1
+categories__Solder Short__J1 connector solder short (15).jpg,0,Solder Short,244.5,121.6,Solder Short,0.914,0.857,correct,0,1
+categories__Solder Short__J1 connector solder short (3).jpg,0,Solder Short,248.6,113.5,Solder Short,0.9182,0.8475,correct,0,1
+categories__Solder Short__J2 CONNECTOR LIFT-UP.jpg,0,Component Liftup,398.5,117.5,Component Liftup,0.888,0.7109,correct,0,1
+categories__Solder Short__J2 connector solder short (9).jpg,0,Solder Short,305.0,159.6,Solder Short,0.9134,0.8922,correct,0,1
+categories__Solder Short__J3 connector solder short.jpg,0,Solder Short,236.6,141.1,Solder Short,0.8819,0.8595,correct,0,2
+categories__Solder Short__Q2 component solder short (4).jpg,0,Solder Short,249.4,158.2,Solder Short,0.9155,0.8787,correct,0,1
+categories__Solder Short__Q6 solder short.jpg,0,Solder Short,279.4,92.7,Solder Short,0.8358,0.7628,correct,0,1
+categories__Solder Short__R1 C29 solder flask.jpg,0,Solder Short,477.5,349.2,,,0.6841,missed_detection,25,0
+categories__Solder Short__R16 component solder short.jpg,0,Solder Short,226.6,58.4,Solder Short,0.8689,0.7684,correct,0,1
+categories__Solder Short__R17 Q2 SOLDER SHORT.jpg,0,Solder Short,305.0,132.6,Solder Short,0.8401,0.2539,localization_error,1,1
+categories__Solder Short__Solder short (13).jpg,0,Solder Short,56.2,54.7,Solder Short,0.5778,0.6644,correct,0,1
+categories__Solder Short__Solder short (14).jpg,0,Solder Short,477.4,104.9,,,0.7333,missed_detection,15,0
+categories__Solder Short__Solder short (3).jpg,0,Solder Short,221.7,110.9,,,0.7763,missed_detection,24,0
+categories__Solder Short__Solder short (4).jpg,0,Solder Short,629.7,162.6,Solder Short,0.4801,0.7577,correct,0,1
+categories__Solder Short__Solder short (9).jpg,0,Solder Short,144.8,57.6,,,0.85,missed_detection,25,0
+categories__Solder Short__U2 IC solder short (2).jpg,0,Solder Short,124.2,112.3,Solder Short,0.8681,0.8895,correct,0,1
+categories__Solder Short__U2 IC solder short (5).jpg,0,Solder Short,158.2,156.7,Solder Ball,0.8571,0.818,classification_error,0,1
+categories__Solder Short__U2 solder Short.jpg,0,Solder Short,229.1,141.9,,,0.6316,missed_detection,15,1
+categories__Solder Short__U3 Display pin solder short (2).jpg,0,Solder Short,236.5,79.8,Solder Short,0.9161,0.8617,correct,0,1
+categories__Solder Short__U4 IC solder short (3).jpg,0,Solder Short,449.3,171.4,Solder Short,0.9145,0.7828,correct,0,1
+categories__Solder Short__U5 IC SOLDER SHORT.jpg,0,Solder Short,245.4,133.0,Solder Short,0.5146,0.5873,correct,0,1
+categories__Solder Short__U5 IC solder short (4).jpg,0,Solder Short,106.4,45.8,,,0.2607,missed_detection,21,0
+categories__Solder Short__U5 IC solder short (4).jpg,1,Solder Short,91.6,34.0,,,0.649,missed_detection,18,0
+categories__Solder Short__solder short (20).jpg,0,Solder Short,118.2,300.0,Solder Short,0.89,0.7816,correct,0,1

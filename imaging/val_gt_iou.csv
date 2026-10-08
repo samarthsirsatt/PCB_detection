@@ -1,0 +1,108 @@
+file,cls,fov_mm,px_per_mm,bin,gt_w_px,gt_h_px,gt_minside_px,gt_minside_mm,best_iou_sameclass,best_iou_anyclass,detected_050,detected_075
+categories__Component Liftup__Component Liftup.jpg,Component Liftup,20.0,64.0,20-25 mm,630.38976,515.25,515.25,8.05078125,0.9633,0.9633,1,1
+categories__Component Liftup__Connecter Liftup (3).jpg,Component Liftup,20.0,64.0,20-25 mm,533.95968,146.81016,146.81016,2.29390875,0.8148,0.8148,1,1
+categories__Component Liftup__Liftup (3).jpg,Component Liftup,20.0,64.0,20-25 mm,644.2803200000001,523.10016,523.10016,8.17344,0.9501,0.9501,1,1
+categories__Component Missing__D11 led missing.jpg,Component Missing,18.0,71.11111111111111,15-20 mm,327.84,200.98008000000002,200.98008000000002,2.826282375,0.8362,0.8362,1,1
+categories__Component Missing__D14 missing.jpg,Component Missing,14.0,91.42857142857143,10-15 mm,414.7904,151.08984,151.08984,1.652545125,0.7755,0.7755,1,1
+categories__Component Missing__D49 LED MISSING (1).jpg,Component Missing,18.0,71.11111111111111,15-20 mm,324.98944,153.94031999999999,153.94031999999999,2.1647857499999996,0.695,0.695,1,0
+categories__Component Missing__D49 LED MISSING.jpg,Component Missing,18.0,71.11111111111111,15-20 mm,342.09024,196.70976000000002,196.70976000000002,2.7662310000000003,0.9286,0.9286,1,1
+categories__Component Missing__J2 connector missing.jpg,Component Missing,35.0,36.57142857142857,30-40 mm,434.74048000000005,389.12976,389.12976,10.640266875,0.9484,0.9484,1,1
+categories__Component Missing__J6 missing.jpg,Component Missing,20.0,64.0,20-25 mm,573.00992,245.16000000000003,245.16000000000003,3.8306250000000004,0.9309,0.9309,1,1
+categories__Component Missing__L1 missing.jpg,Component Missing,30.0,42.666666666666664,30-40 mm,349.23008000000004,339.24024000000003,339.24024000000003,7.950943125000001,0.9527,0.9527,1,1
+categories__Component Missing__L3 Missing.jpg,Component Missing,35.0,36.57142857142857,30-40 mm,320.71040000000005,283.64975999999996,283.64975999999996,7.7560481249999995,0.8461,0.8461,1,1
+categories__Component Missing__component missing.jpg,Component Missing,18.0,71.11111111111111,15-20 mm,350.64064,149.65992,149.65992,2.104592625,0.9025,0.9025,1,1
+categories__Component No Solder__BLACK  wire no solder.jpg,Component No Solder,25.0,51.2,25-30 mm,152.51968,133.98984000000002,133.98984000000002,2.6169890625,0.0,0.0,0,0
+categories__Component No Solder__C44 No solder.jpg,Component No Solder,20.0,64.0,20-25 mm,132.56064,179.59968,132.56064,2.07126,0.8905,0.8905,1,1
+categories__Component No Solder__J1 Connector No solder.jpg,Component No Solder,18.0,71.11111111111111,15-20 mm,141.10976,142.53984,141.10976,1.9843559999999998,0.0,0.7882,0,0
+categories__Component No Solder__J10 no solder (1).jpg,Component No Solder,30.0,42.666666666666664,30-40 mm,111.17952000000001,96.91992,96.91992,2.271560625,0.0,0.2054,0,0
+categories__Component No Solder__J10 no solder.jpg,Component No Solder,30.0,42.666666666666664,30-40 mm,108.33024,124.00992,108.33024,2.53899,0.0,0.0936,0,0
+categories__Component No Solder__J2 connector pin no solder (1).jpg,Component No Solder,18.0,71.11111111111111,15-20 mm,182.85056,171.42984,171.42984,2.410732125,0.0,0.0,0,0
+categories__Component No Solder__J2 connector pin no solder.jpg,Component No Solder,18.0,71.11111111111111,15-20 mm,172.84992,171.42984,171.42984,2.410732125,0.0,0.0,0,0
+categories__Component No Solder__No solder (2).jpg,Component No Solder,35.0,36.57142857142857,30-40 mm,137.14048,148.56984,137.14048,3.7499350000000002,0.7374,0.7374,1,0
+categories__Component No Solder__Q2 component lead no solder.jpg,Component No Solder,18.0,71.11111111111111,15-20 mm,145.72032000000002,200.00016000000002,145.72032000000002,2.049192,0.3726,0.3726,0,0
+categories__Component No Solder__R2 component no solder.jpg,Component No Solder,16.0,80.0,15-20 mm,157.14048,205.70976000000002,157.14048,1.964256,0.8325,0.8325,1,1
+categories__Component No Solder__R3 NO SOLDER.jpg,Component No Solder,20.0,64.0,20-25 mm,168.57984,174.28968,168.57984,2.63406,0.0301,0.0301,0,0
+categories__Component No Solder__RV1 no solder.jpg,Component No Solder,30.0,42.666666666666664,30-40 mm,135.71968,110.00016,110.00016,2.57812875,0.8746,0.8746,1,1
+categories__Component No Solder__U5 no solder (1).jpg,Component No Solder,20.0,64.0,20-25 mm,107.02976,107.02008,107.02008,1.67218875,0.0,0.0325,0,0
+categories__Component Solder Dry__C12 COMPONENT DRY SOLDER.jpg,Component Solder Dry,10.0,128.0,10-15 mm,206.41024000000002,239.26968,206.41024000000002,1.6125800000000001,0.8517,0.8517,1,1
+categories__Component Solder Dry__C12 DRY (4).jpg,Component Solder Dry,7.5,170.66666666666666,1-10 mm,379.93984,420.70032,379.93984,2.22621,0.9092,0.9092,1,1
+categories__Component Solder Dry__C12 Dry Solder (5).jpg,Component Solder Dry,15.0,85.33333333333333,15-20 mm,139.36,224.80992,139.36,1.6331250000000002,0.9213,0.9213,1,1
+categories__Component Solder Dry__C12 component dry (3).jpg,Component Solder Dry,11.0,116.36363636363636,10-15 mm,207.71968,390.46031999999997,207.71968,1.7850910000000002,0.9045,0.9045,1,1
+categories__Component Solder Dry__C12 component dry solder (2) (1).jpg,Component Solder Dry,9.0,142.22222222222223,1-10 mm,223.55968000000001,236.16,223.55968000000001,1.571904,0.8968,0.8968,1,1
+categories__Component Solder Dry__C12 component dry solder (2) (1).jpg,Component Solder Dry,9.0,142.22222222222223,1-10 mm,197.19936,216.92015999999998,197.19936,1.386558,0.8464,0.8464,1,1
+categories__Component Solder Dry__C12 component dry solder (2).jpg,Component Solder Dry,10.0,128.0,10-15 mm,181.41952,273.46031999999997,181.41952,1.41734,0.8066,0.8066,1,1
+categories__Component Solder Dry__C12 component dry solder (4).jpg,Component Solder Dry,9.0,142.22222222222223,1-10 mm,218.22976,212.98032,212.98032,1.497517875,0.8707,0.8707,1,1
+categories__Component Solder Dry__D1dry.jpg,Component Solder Dry,18.0,71.11111111111111,15-20 mm,266.88,190.63008,190.63008,2.6807355,0.7446,0.7446,1,0
+categories__Component Solder Dry__D6 led dry.jpg,Component Solder Dry,12.0,106.66666666666667,10-15 mm,249.78943999999998,65.73024,65.73024,0.6162209999999999,0.9523,0.9523,1,1
+categories__Component Solder Dry__J1 CONNECTOR DRY SOLDER (6).jpg,Component Solder Dry,25.0,51.2,25-30 mm,110.42944,103.85999999999999,103.85999999999999,2.0285156249999994,0.8468,0.8468,1,1
+categories__Component Solder Dry__J1 DRY SOLDER.jpg,Component No Solder,18.0,71.11111111111111,15-20 mm,152.50047999999998,173.54016,152.50047999999998,2.144538,0.9443,0.9443,1,1
+categories__Component Solder Dry__J1 connector dry solder (3).jpg,Component Solder Dry,18.0,71.11111111111111,15-20 mm,141.9904,128.83032,128.83032,1.811676375,0.885,0.885,1,1
+categories__Component Solder Dry__J1 connector pin dry solder.jpg,Component Solder Dry,30.0,42.666666666666664,30-40 mm,118.31936,98.59968,98.59968,2.3109300000000004,0.8324,0.8324,1,1
+categories__Component Solder Dry__J2 dry solder (2).jpg,Component Solder Dry,35.0,36.57142857142857,30-40 mm,85.46048,90.70992,85.46048,2.3368100000000003,0.8927,0.8927,1,1
+categories__Component Solder Dry__J2 dry.jpg,Component No Solder,20.0,64.0,20-25 mm,122.26944,132.78024,122.26944,1.91046,0.9101,0.9101,1,1
+categories__Component Solder Dry__J4 dry solder.jpg,Component No Solder,25.0,51.2,25-30 mm,151.18976,156.44016,151.18976,2.952925,0.9503,0.9503,1,1
+categories__Component Solder Dry__J4 dry solder.jpg,Component No Solder,25.0,51.2,25-30 mm,160.3904,157.75992,157.75992,3.0812484374999998,0.8969,0.8969,1,1
+categories__Component Solder Dry__J7 DRY.jpg,Component Solder Dry,20.0,64.0,20-25 mm,159.07968,153.81,153.81,2.40328125,0.9115,0.9115,1,1
+categories__Component Solder Dry__J7 connector dry solder (2).jpg,Component Solder Dry,14.0,91.42857142857143,10-15 mm,178.80064000000002,198.51984000000002,178.80064000000002,1.955632,0.8594,0.8594,1,1
+categories__Component Solder Dry__J7 connector dry solder.jpg,Component Solder Dry,14.0,91.42857142857143,10-15 mm,212.98048,205.08984,205.08984,2.2431701250000002,0.907,0.907,1,1
+categories__Component Solder Dry__Q2 dry solder.jpg,Component Solder Dry,12.0,106.66666666666667,10-15 mm,367.85024,184.06008,184.06008,1.72556325,0.0,0.0,0,0
+categories__Component Solder Dry__R2 component dry solder (1).jpg,Component Solder Dry,15.0,85.33333333333333,15-20 mm,195.88992000000002,210.35016,195.88992000000002,2.2955850000000004,0.8271,0.8271,1,1
+categories__Component Solder Dry__R2 dry solder.jpg,Component Solder Dry,13.0,98.46153846153847,10-15 mm,231.38943999999998,358.69032,231.38943999999998,2.350049,0.8206,0.8206,1,1
+categories__Component Solder Dry__R8 DRY solder.jpg,Component Solder Dry,20.0,64.0,20-25 mm,133.05984,185.13,133.05984,2.07906,0.8148,0.8148,1,1
+categories__Component Solder Dry__RV1 lead dry solder.jpg,Component Solder Dry,15.0,85.33333333333333,15-20 mm,264.67967999999996,219.83976,219.83976,2.5762471875000004,0.8424,0.8424,1,1
+categories__Component Solder Dry__Solde Dry.jpg,Component Solder Dry,30.0,42.666666666666664,30-40 mm,104.13952,108.48024,104.13952,2.44077,0.8709,0.8709,1,1
+categories__Component Solder Dry__Solde Dry.jpg,Component Solder Dry,30.0,42.666666666666664,30-40 mm,102.69056,105.58008,102.69056,2.40681,0.8301,0.8301,1,1
+categories__Component Solder Dry__Solde Dry.jpg,Component Solder Dry,30.0,42.666666666666664,30-40 mm,101.24032,120.04992,101.24032,2.37282,0.7998,0.7998,1,1
+categories__Component Solder Dry__Solder Dry (3).jpg,Component Solder Dry,13.0,98.46153846153847,10-15 mm,234.30015999999998,351.46008,234.30015999999998,2.3796109999999997,0.8417,0.8417,1,1
+categories__Component Solder Dry__U3 Display pin dry solder (2).jpg,Component Solder Dry,25.0,51.2,25-30 mm,111.17952000000001,109.75032,109.75032,2.1435609374999998,0.9515,0.9515,1,1
+categories__Polarity Wrong__D2 LED polarity wrong.jpg,Polarity Wrong,20.0,64.0,20-25 mm,250.86975999999999,380.57976,250.86975999999999,3.9198399999999998,0.0,0.8575,0,0
+categories__Polarity Wrong__J1 connector polarity wrong (2) (1).jpg,Polarity Wrong,30.0,42.666666666666664,30-40 mm,748.33024,407.65968,407.65968,9.55452375,0.964,0.964,1,1
+categories__Polarity Wrong__J2 connector polarity wrong.jpg,Polarity Wrong,35.0,36.57142857142857,30-40 mm,507.43935999999997,561.61008,507.43935999999997,13.875295,0.0,0.836,0,0
+categories__Polarity Wrong__J2 polarity wrong.jpg,Polarity Wrong,25.0,51.2,25-30 mm,1117.50016,441.86976000000004,441.86976000000004,8.63026875,0.9354,0.9354,1,1
+categories__Polarity Wrong__J4 connector wrong polarity.jpg,Polarity Wrong,25.0,51.2,25-30 mm,527.3894399999999,466.09992,466.09992,9.103514062499999,0.9622,0.9622,1,1
+categories__Polarity Wrong__J4 wrong polarity.jpg,Polarity Wrong,20.0,64.0,20-25 mm,671.3599999999999,567.31032,567.31032,8.86422375,0.9244,0.9244,1,1
+categories__Polarity Wrong__Q7 component polarity wrong.jpg,Polarity Wrong,20.0,64.0,20-25 mm,396.50048,481.78008000000005,396.50048,6.19532,0.9321,0.9321,1,1
+categories__RYB Wrong Sequence__RYB sequence wrong (1).jpg,RYB Wrong Sequence,30.0,42.666666666666664,30-40 mm,671.3599999999999,658.53,658.53,15.434296875,0.9042,0.9042,1,1
+categories__RYB Wrong Sequence__RYB sequence wrong (3).jpg,RYB Wrong Sequence,40.0,32.0,30-40 mm,474.65984,601.51032,474.65984,14.83312,0.7518,0.7518,1,1
+categories__RYB Wrong Sequence__sequence wrong (1).jpg,RYB Wrong Sequence,35.0,36.57142857142857,30-40 mm,496.02944,282.22992,282.22992,7.717224375,0.6511,0.6511,1,0
+categories__RYB Wrong Sequence__sequence wrong (2) (1).jpg,RYB Wrong Sequence,35.0,36.57142857142857,30-40 mm,494.60992,222.36983999999998,222.36983999999998,6.0804253125,0.8753,0.8753,1,1
+categories__RYB Wrong Sequence__sequence wrong (3) (1).jpg,RYB Wrong Sequence,16.0,80.0,15-20 mm,478.92992,360.63,360.63,4.507875,0.8615,0.8615,1,1
+categories__Solder Ball__C12 solder boll short.jpg,Solder Ball,7.5,170.66666666666666,1-10 mm,177.09952,169.99992,169.99992,0.9960932812500001,0.8302,0.8302,1,1
+categories__Solder Ball__J2 connector Boll.jpg,Solder Ball,30.0,42.666666666666664,30-40 mm,107.2,81.66024,81.66024,1.9139118750000002,0.8798,0.8798,1,1
+categories__Solder Ball__Solder boll (3).jpg,Solder Ball,7.5,170.66666666666666,1-10 mm,165.79968000000002,151.99992,151.99992,0.8906245312500001,0.9367,0.9367,1,1
+categories__Solder Ball__U1 IC Solder Boll (3).jpg,Solder Ball,20.0,64.0,20-25 mm,83.2,78.35976,78.35976,1.22437125,0.9141,0.9141,1,1
+categories__Solder Ball__U4 IC Solder Boll.jpg,Solder Ball,15.0,85.33333333333333,15-20 mm,46.79935999999999,44.19,44.19,0.5178515625,0.684,0.684,1,0
+categories__Solder Ball__U4 IC solder short by solder ball.jpg,Solder Ball,20.0,64.0,20-25 mm,50.30016,49.890240000000006,49.890240000000006,0.7795350000000001,0.6952,0.6952,1,0
+categories__Solder Ball__U4IC SOLDER BOLL.jpg,Solder Ball,20.0,64.0,20-25 mm,82.67008000000001,64.13976,64.13976,1.00218375,0.6329,0.6329,1,0
+categories__Solder Short__C1 Q1 SOLDER SHORT.jpg,Solder Ball,25.0,51.2,25-30 mm,49.890559999999994,52.739999999999995,49.890559999999994,0.9744249999999999,0.0,0.0955,0,0
+categories__Solder Short__C12 SOLDER SHORT.jpg,Solder Short,8.5,150.58823529411765,1-10 mm,538.79936,451.89,451.89,3.00083203125,0.8431,0.8431,1,1
+categories__Solder Short__C21 component solder short.jpg,Solder Short,10.0,128.0,10-15 mm,456.12032,275.09976,275.09976,2.149216875,0.6986,0.6986,1,0
+categories__Solder Short__C34 component short.jpg,Solder Short,8.5,150.58823529411765,1-10 mm,259.42016,453.27024000000006,259.42016,1.722712,0.366,0.366,0,0
+categories__Solder Short__C41 component solder short (2).jpg,Solder Short,10.0,128.0,10-15 mm,467.54048,272.25,272.25,2.126953125,0.9655,0.9655,1,1
+categories__Solder Short__J1 J4 connnector solder short.jpg,Solder Short,30.0,42.666666666666664,30-40 mm,200.82048,115.50024,115.50024,2.7070368750000005,0.9071,0.9071,1,1
+categories__Solder Short__J1 J4 connnector solder short.jpg,Solder Short,30.0,42.666666666666664,30-40 mm,186.90048000000002,96.24024,96.24024,2.2556306250000002,0.8304,0.8304,1,1
+categories__Solder Short__J1 connector solder short (10).jpg,Solder Short,30.0,42.666666666666664,30-40 mm,195.87968,137.79,137.79,3.229453125,0.9108,0.9108,1,1
+categories__Solder Short__J1 connector solder short (15).jpg,Solder Short,25.0,51.2,25-30 mm,244.50943999999998,121.57992,121.57992,2.3746078125,0.857,0.857,1,1
+categories__Solder Short__J1 connector solder short (3).jpg,Solder Short,25.0,51.2,25-30 mm,248.56064,113.47992,113.47992,2.2164046875,0.8475,0.8475,1,1
+categories__Solder Short__J2 CONNECTOR LIFT-UP.jpg,Component Liftup,30.0,42.666666666666664,30-40 mm,398.51008,117.52991999999999,117.52991999999999,2.7546075,0.7109,0.7109,1,0
+categories__Solder Short__J2 connector solder short (9).jpg,Solder Short,18.0,71.11111111111111,15-20 mm,305.0304,159.63984,159.63984,2.2449352499999997,0.8922,0.8922,1,1
+categories__Solder Short__J3 connector solder short.jpg,Solder Short,20.0,64.0,20-25 mm,236.61952,141.12,141.12,2.205,0.8595,0.8595,1,1
+categories__Solder Short__Q2 component solder short (4).jpg,Solder Short,20.0,64.0,20-25 mm,249.44,158.20991999999998,158.20991999999998,2.4720299999999997,0.8787,0.8787,1,1
+categories__Solder Short__Q6 solder short.jpg,Solder Short,30.0,42.666666666666664,30-40 mm,279.38048,92.65032,92.65032,2.171491875,0.7628,0.7628,1,1
+categories__Solder Short__R1 C29 solder flask.jpg,Solder Short,30.0,42.666666666666664,30-40 mm,477.50016000000005,349.22016,349.22016,8.184847500000002,0.0,0.0,0,0
+categories__Solder Short__R16 component solder short.jpg,Solder Short,18.0,71.11111111111111,15-20 mm,226.63039999999998,58.44024,58.44024,0.821815875,0.7684,0.7684,1,1
+categories__Solder Short__R17 Q2 SOLDER SHORT.jpg,Solder Short,14.0,91.42857142857143,10-15 mm,305.0304,132.57000000000002,132.57000000000002,1.449984375,0.2539,0.2539,0,0
+categories__Solder Short__Solder short (13).jpg,Solder Short,35.0,36.57142857142857,30-40 mm,56.17024,54.68976,54.68976,1.495423125,0.6643,0.6643,1,0
+categories__Solder Short__Solder short (14).jpg,Solder Short,25.0,51.2,25-30 mm,477.41952,104.94,104.94,2.0496093749999997,0.4042,0.4042,0,0
+categories__Solder Short__Solder short (3).jpg,Solder Short,25.0,51.2,25-30 mm,221.71008,110.85983999999999,110.85983999999999,2.1652312499999997,0.0,0.0,0,0
+categories__Solder Short__Solder short (4).jpg,Solder Short,6.5,196.92307692307693,1-10 mm,629.66016,162.58968,162.58968,0.8256507187499998,0.7577,0.7577,1,1
+categories__Solder Short__Solder short (9).jpg,Solder Short,13.0,98.46153846153847,10-15 mm,144.84992,57.649680000000004,57.649680000000004,0.5855045625,0.8309,0.8309,1,1
+categories__Solder Short__U2 IC solder short (2).jpg,Solder Short,20.0,64.0,20-25 mm,124.16,112.34016,112.34016,1.755315,0.8894,0.8894,1,1
+categories__Solder Short__U2 IC solder short (5).jpg,Solder Short,16.0,80.0,15-20 mm,158.15936,156.67992,156.67992,1.9584990000000002,0.818,0.818,1,1
+categories__Solder Short__U2 solder Short.jpg,Solder Short,10.0,128.0,10-15 mm,229.09952,141.88968,141.88968,1.108513125,0.4301,0.4301,0,0
+categories__Solder Short__U3 Display pin solder short (2).jpg,Solder Short,25.0,51.2,25-30 mm,236.50048,79.81992,79.81992,1.5589828124999998,0.8617,0.8617,1,1
+categories__Solder Short__U4 IC solder short (3).jpg,Solder Short,18.0,71.11111111111111,15-20 mm,449.34015999999997,171.45,171.45,2.4110156249999997,0.7828,0.7828,1,1
+categories__Solder Short__U5 IC SOLDER SHORT.jpg,Solder Short,20.0,64.0,20-25 mm,245.36064,133.03008,133.03008,2.078595,0.5871,0.5871,1,0
+categories__Solder Short__U5 IC solder short (4).jpg,Solder Short,13.0,98.46153846153847,10-15 mm,106.42944,45.820080000000004,45.820080000000004,0.4653601875,0.0,0.0,0,0
+categories__Solder Short__U5 IC solder short (4).jpg,Solder Short,13.0,98.46153846153847,10-15 mm,91.64032,33.98976,33.98976,0.3452085,0.0,0.0,0,0
+categories__Solder Short__solder short (20).jpg,Solder Short,2.0,640.0,1-10 mm,118.24,300.04992,118.24,0.18475,0.7817,0.7817,1,1

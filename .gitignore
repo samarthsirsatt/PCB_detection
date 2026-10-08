@@ -1,0 +1,9 @@
+data/
+runs/
+logs/
+offline/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+scratch/

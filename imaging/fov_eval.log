@@ -1,0 +1,71 @@
+=== evaluating 10-15 mm 20 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 439.1±130.0 MB/s, size: 185.2 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/10_15mm/labels/val... 20 images, 4 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 20/20 985.0it/s 0.0s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/10_15mm/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 50% ━━━━━━────── 1/2 44.3s/it 13.3s<44.3s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 2/2 8.1s/it 16.2s
+                   all         20         17      0.753      0.725       0.73      0.487
+Speed: 1.1ms preprocess, 744.6ms inference, 0.0ms loss, 0.7ms postprocess per image
+10-15 mm {"map50": 0.7296, "map": 0.4868, "precision": 0.7532, "recall": 0.7249}
+=== evaluating 15-20 mm 28 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 521.8±155.5 MB/s, size: 252.4 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/15_20mm/labels/val... 28 images, 7 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 28/28 1.3Kit/s 0.0s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/15_20mm/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 50% ━━━━━━────── 1/2 39.8s/it 12.0s<39.8s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 2/2 10.6s/it 21.2s
+                   all         28         21      0.763      0.847      0.773      0.507
+Speed: 1.0ms preprocess, 747.7ms inference, 0.0ms loss, 0.0ms postprocess per image
+15-20 mm {"map50": 0.7731, "map": 0.5069, "precision": 0.7628, "recall": 0.8472}
+=== evaluating 30-40 mm 28 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 592.6±106.0 MB/s, size: 273.4 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/30_40mm/labels/val... 28 images, 5 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 28/28 1.3Kit/s 0.0s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/30_40mm/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 50% ━━━━━━────── 1/2 40.6s/it 12.2s<40.6s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 2/2 10.6s/it 21.3s
+                   all         28         26      0.745       0.79      0.809      0.578
+Speed: 1.3ms preprocess, 750.3ms inference, 0.0ms loss, 0.1ms postprocess per image
+30-40 mm {"map50": 0.8091, "map": 0.578, "precision": 0.7454, "recall": 0.7896}
+=== evaluating 25-30 mm 17 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 517.9±68.2 MB/s, size: 251.2 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/25_30mm/labels/val... 17 images, 5 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 17/17 1.3Kit/s 0.0s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/25_30mm/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 50% ━━━━━━────── 1/2 40.8s/it 12.2s<40.8s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 2/2 6.4s/it 12.9s
+                   all         17         13      0.923       0.58      0.701       0.58
+Speed: 1.3ms preprocess, 747.5ms inference, 0.0ms loss, 0.1ms postprocess per image
+25-30 mm {"map50": 0.7006, "map": 0.5804, "precision": 0.923, "recall": 0.5797}
+=== evaluating 20-25 mm 22 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 526.1±83.0 MB/s, size: 244.6 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/20_25mm/labels/val... 22 images, 2 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 22/22 1.1Kit/s 0.0s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/20_25mm/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 50% ━━━━━━────── 1/2 40.6s/it 12.2s<40.6s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 2/2 8.2s/it 16.5s
+                   all         22         20      0.771      0.789      0.838      0.651
+Speed: 1.2ms preprocess, 738.2ms inference, 0.0ms loss, 0.1ms postprocess per image
+20-25 mm {"map50": 0.8379, "map": 0.6512, "precision": 0.7709, "recall": 0.789}
+=== evaluating 1-10 mm 10 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 473.1±83.5 MB/s, size: 194.4 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/1_10mm/labels/val... 10 images, 1 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 10/10 1.2Kit/s 0.0s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/1_10mm/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 1/1 7.4s/it 7.4s
+                   all         10         10      0.715      0.917      0.917      0.645
+Speed: 1.3ms preprocess, 728.5ms inference, 0.0ms loss, 0.1ms postprocess per image
+1-10 mm {"map50": 0.9172, "map": 0.6451, "precision": 0.7155, "recall": 0.9167}
+=== evaluating ALL 125 images
+Ultralytics 8.4.127 🚀 Python-3.11.5 torch-2.6.0+cu124 CPU (QEMU Virtual CPU version 2.5+)
+rtdetr-l-nq30 summary: 315 layers, 32,000,180 parameters, 0 gradients, 100.8 GFLOPs
+[34m[1mval: [0mFast image access ✅ (ping: 0.0±0.0 ms, read: 556.5±126.9 MB/s, size: 260.3 KB)
+[K[34m[1mval: [0mScanning /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/ALL/labels/val... 125 images, 24 backgrounds, 0 corrupt: 100% ━━━━━━━━━━━━ 125/125 1.4Kit/s 0.1s
+[34m[1mval: [0mNew cache created: /home/agipml/samarth.sirsat/DDP/pcb/scratch/fov_eval/ALL/labels/val.cache
+[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 12% ━─────────── 1/8 40.1s/it 12.0s<4:41[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 25% ━━━───────── 2/8 23.8s/it 24.3s<2:23[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 37% ━━━━──────── 3/8 18.4s/it 36.3s<1:32[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 50% ━━━━━━────── 4/8 15.8s/it 48.2s<1:03[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 62% ━━━━━━━───── 5/8 14.4s/it 1:00<43.2s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 75% ━━━━━━━━━─── 6/8 13.6s/it 1:12<27.1s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 87% ━━━━━━━━━━── 7/8 13.0s/it 1:24<13.0s[K                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100% ━━━━━━━━━━━━ 8/8 11.7s/it 1:33
+                   all        125        107      0.745      0.779       0.79      0.567
+Speed: 1.4ms preprocess, 736.8ms inference, 0.0ms loss, 0.0ms postprocess per image
+ALL {"map50": 0.7898, "map": 0.5674, "precision": 0.7451, "recall": 0.7791}
+done
